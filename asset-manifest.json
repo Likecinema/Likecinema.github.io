@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2d6cf7c.chunk.css",
-    "main.js": "/static/js/main.af1421d3.chunk.js",
-    "main.js.map": "/static/js/main.af1421d3.chunk.js.map",
+    "main.css": "/static/css/main.4511747d.chunk.css",
+    "main.js": "/static/js/main.d91b9b3c.chunk.js",
+    "main.js.map": "/static/js/main.d91b9b3c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.218b2d3a.js",
     "runtime-main.js.map": "/static/js/runtime-main.218b2d3a.js.map",
     "static/js/2.b41efb0c.chunk.js": "/static/js/2.b41efb0c.chunk.js",
@@ -10,20 +10,20 @@
     "static/js/3.9c1ba79c.chunk.js": "/static/js/3.9c1ba79c.chunk.js",
     "static/js/3.9c1ba79c.chunk.js.map": "/static/js/3.9c1ba79c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a2d6cf7c.chunk.css.map": "/static/css/main.a2d6cf7c.chunk.css.map",
+    "static/css/main.4511747d.chunk.css.map": "/static/css/main.4511747d.chunk.css.map",
     "static/js/2.b41efb0c.chunk.js.LICENSE.txt": "/static/js/2.b41efb0c.chunk.js.LICENSE.txt",
-    "static/media/cloud.830a07c3.svg": "/static/media/cloud.830a07c3.svg",
-    "static/media/email.5c1d3bb0.svg": "/static/media/email.5c1d3bb0.svg",
-    "static/media/facebook.4b266d41.svg": "/static/media/facebook.4b266d41.svg",
-    "static/media/gitfork.7e955557.svg": "/static/media/gitfork.7e955557.svg",
-    "static/media/github.197212f0.svg": "/static/media/github.197212f0.svg",
-    "static/media/instagram.b0a8a345.svg": "/static/media/instagram.b0a8a345.svg",
-    "static/media/star.7ad74818.svg": "/static/media/star.7ad74818.svg"
+    "static/media/cloud.c59eb6b0.svg": "/static/media/cloud.c59eb6b0.svg",
+    "static/media/email.a19b24b0.svg": "/static/media/email.a19b24b0.svg",
+    "static/media/facebook.3ca55616.svg": "/static/media/facebook.3ca55616.svg",
+    "static/media/gitfork.a54dec38.svg": "/static/media/gitfork.a54dec38.svg",
+    "static/media/github.25f09648.svg": "/static/media/github.25f09648.svg",
+    "static/media/instagram.e298bedf.svg": "/static/media/instagram.e298bedf.svg",
+    "static/media/star.2fc77253.svg": "/static/media/star.2fc77253.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.218b2d3a.js",
     "static/js/2.b41efb0c.chunk.js",
-    "static/css/main.a2d6cf7c.chunk.css",
-    "static/js/main.af1421d3.chunk.js"
+    "static/css/main.4511747d.chunk.css",
+    "static/js/main.d91b9b3c.chunk.js"
   ]
 }
